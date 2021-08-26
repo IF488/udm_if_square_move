@@ -1,5 +1,5 @@
 # udm_if_square_move
-Ce package contient le package de la partie 3 du TP4
+Ce package contient le package de la partie 3 du TP4.
 Il permet de décrire un carré avec le Turtlebot3 en faisant appel au service move_base/goal
 
 
